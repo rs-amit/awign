@@ -1,0 +1,32 @@
+.cart{
+    display: flex;
+    margin: 10px 0;
+}
+.cart-avatar{
+    width:180px;
+    display: flex;
+    justify-content: center;
+}
+.cartDetails{}
+
+.cart-avatar-img{
+    width:100px;
+    height: fit-content;
+}
+.cartInfo-name{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.cartInfo-desc{
+   font-size: 14px;
+   margin-bottom: 5px;
+   max-width: 900px;
+}
+.cartInfo-Language{
+    display: flex;
+    font-size: 14px;
+}
+.cartInfo-title{
+    font-weight: 600;
+}
